@@ -28,6 +28,9 @@
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
+/node_modules
+/Gemfile.lock
+
 
 /public/assets
 
